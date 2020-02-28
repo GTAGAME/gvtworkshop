@@ -1,0 +1,14 @@
+Package: com.gvt.ciosaop
+Name: Classic iOS AddOn Pack
+Version: 0.1 
+Architecture: iphoneos-arm 
+Description: This theme is a simple AddOn Pack for the already existing Classic iOS theme. It's adds icons for all new iOS 13 apps and icons that haven't been included in the original release. This version is still work in progress and is for testing purposes only! 
+Maintainer: Gravarty <gravarty@gmail.com> 
+Author: Gravarty 
+Section: Themes 
+Depends: com.anemonetheming.anemone, com.spark.snowboard 
+Filename: debs/CIOSAOP.deb
+Size: 1919
+MD5sum: 045cbbb5b7ff8b4219fb6c7e4bdc0cfe 
+SHA1: 898049bf5c554b86c6d60c8e0ac26968c4d4fd32 
+SHA256: e6eba746c5beae4b4000a71f20b15f083ea5508f0e55a16c9f8f9a6dd03c9018
