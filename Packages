@@ -1,0 +1,14 @@
+Package: com.gvt.forstall
+Name: Forstall for iOS 13
+Version: 1.1
+Architecture: iphoneos-arm 
+Description: Forstall for iOS 13 is a fork of the original Classic iOS theme found in the archived repo from ZodTTD. Since this version never made the jump to iOS 13 and a lot of new icons kept untouched, it was time to finally bring the skeuomorphic goodness to next level. Experience iOS 6 like it was before the transition to flat design with beautiful linen folders and shiny icons. Apps that haven't been available in the Classic iOS days now fit with all other apps on your Springboard! This theme is still WIP and not official. The icons in the Settings app are still temporary themed with custom symbols and colors. App icons previously available in Classic iOS also have been removed due to resolution mismatch and will be replaced soon. Previously available as Classic iOS AddOn Pack on Gravarty's Workshop. 
+Maintainer: Gravarty <gravarty@gmail.com> 
+Author: Gravarty, Axel4
+Section: Themes 
+Depends: com.spark.snowboard 
+Filename: debs//com.gvt.forstall.deb
+Size: 3649312
+MD5sum: 4ca930cd6efc49c5baf79cd43afb0aa7
+SHA1: 46df4000f0ae186f16ffc29df2c65792008a030d
+SHA256: e1f88b99e14ca774ee4b02096422e2874c75a953a1efde7111702b1ff1d2714b
